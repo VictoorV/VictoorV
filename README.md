@@ -27,8 +27,9 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Déchiffrage avec un algorithme Monte-Carlo par chaînes de Markov.
 
 ### [✨ Détection de logiciels malveillants (Python)](link_to_repository)
-- Developed a classifier for malware detection using a dataset of 4465 samples and 241 features.
-- Applied various ML algorithms and compared their performance using ROC curves.
+- Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
+- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
+- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
 
 ## 📊 Expérience professionnelle
 
@@ -41,7 +42,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ### Master en mathématiques appliquées, Ingénierie Statistique et Numérique, à l'université de Lille (2022-2024)
 - Statistiques et probabilités (tests d'hypothèses, modélisation statistique, régression, séries temporelles, statistiques computationnelles, statistiques spatiales, biostatistiques, analyse de données, analyse factorielle).
-- Théorie et méthodes d'apprentissage (régression logistique, KNN, SVM, arbres décisionnels, méta-algorithmes ...).
+- Théorie et méthodes d'apprentissage (apprentissage supervisé, non supervisé, par renforcement, traitement naturel du langage, génération d'images).
 - Calcul scientifique (optimisation, recherche opérationnelle, traitement du signal).
 - Outils du big data (Git, Docker).
 

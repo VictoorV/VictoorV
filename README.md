@@ -55,7 +55,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Modélisation et résolution de problèmes MILP afin d'optimiser la consommation des bâtiments.
 - Développement d'un système innovant de gestion de l'énergie en temps réel par IA.
 
-## 🎓 Education
+## 🎓 Formation
 
 ### Master en mathématiques appliquées, Ingénierie Statistique et Numérique, à l'université de Lille (2022-2024)
 - Statistiques et probabilités (tests d'hypothèses, modélisation statistique, régression, séries temporelles, statistiques computationnelles, statistiques spatiales, biostatistiques, analyse de données, analyse factorielle).

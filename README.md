@@ -15,7 +15,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ## 🚀 Projets
 
-### [✨ Application de réservation de salles (Java, SQL)]([link_to_repository](https://github.com/VictoorV/Reservation_salles_java))
+### [✨ Application de réservation de salles (Java, SQL)](https://github.com/VictoorV/Reservation_salles_java)
 - Gestion automatique afin d'éviter les conflits de réservation.
 - Connexion Java - base de données SQL 
 

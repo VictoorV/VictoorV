@@ -40,7 +40,11 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Recherche et théorie sur les tests multiples
 - Tests multiples avec corrections sur des données réelles d'expression génique.
 
-### [✨ Optimisation et planification industrielle (AMPL)](https://github.com/VictoorV/Planification_industrielle)
+### [✨ Optimisation et planification industrielle, supply chain 2 (AMPL)](https://github.com/VictoorV/Planification_industrielle_supply_chain2)
+- Modélisation d'un problème réel en problème mathématique.
+- Analyse post-optimisation.
+
+### [✨ Optimisation et planification industrielle, supply chain 1 (AMPL)](https://github.com/VictoorV/Planification_industrielle_supply_chain1)
 - Modélisation d'un problème réel en problème mathématique.
 - Analyse post-optimisation.
 

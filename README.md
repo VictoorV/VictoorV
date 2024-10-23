@@ -26,7 +26,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Création d’outils pour encoder, décoder et analyser les fréquences de lettres.
 - Déchiffrage avec un algorithme Monte-Carlo par chaînes de Markov.
 
-### [✨ Détection de logiciels malveillants (Python)](link_to_repository)
+### [✨ Détection de logiciels malveillants (Python)](https://github.com/VictoorV/Detection_malwares)
 - Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
 - Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
 - Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.

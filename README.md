@@ -1,8 +1,8 @@
-# 👋
+# 👋 Bienvenue
 
-Statisticien passionné avec une solide formation en mathématiques appliquées et IA/machine learning.
+Statisticien/Data scientist passionné avec une solide formation en mathématiques appliquées et IA/machine learning.
 
-## 🛠️ Skills
+## 🛠️ Compétences en programmation
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -13,11 +13,11 @@ Statisticien passionné avec une solide formation en mathématiques appliquées 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Projets
 
-### [✨ Application de Gestion de Réservations (Java, SQL)](link_to_repository)
-- Developed a reservation management application using Java and SQL.
-- Implemented GUI with Swing/AWT and integrated a SQL database.
+### [✨ Application de réservation de salles (Java, SQL)]([link_to_repository](https://github.com/VictoorV/Reservation_salles_java))
+- Gestion automatique afin d'éviter les conflits de réservation.
+- Connexion Java - base de données SQL 
 
 ### [✨ Optimisation de Transport Logistique (AMPL)](link_to_repository)
 - Modeled and solved a logistics optimization problem for a fictitious company.

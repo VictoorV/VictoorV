@@ -15,9 +15,15 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ## 🚀 Projets
 
-### [✨ Application de réservation de salles (Java, SQL)](https://github.com/VictoorV/Reservation_salles_java)
-- Gestion automatique afin d'éviter les conflits de réservation.
-- Connexion Java - base de données SQL.
+### [✨ Génération d'images de Saules (Python)](https://github.com/VictoorV/Saules_GAN)
+- Création et gestion d’une base de données d’images de saules.
+- Étude théorique et recherche sur le traitement et la génération d’images.
+- Développement et utilisation d’un GAN pour générer des images de saules.
+
+### [✨ Détection de logiciels malveillants (Python)](https://github.com/VictoorV/Detection_malwares)
+- Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
+- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
+- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
 
 ### [✨ Estimation par bootstrap et déchiffrage d'un message codé (R)](https://github.com/VictoorV/Bootstrap_MCMC)
 - Estimation des paramètres par maximum de vraisemblance et construction d’intervalles de confiance pour les paramètres du modèle.
@@ -26,10 +32,21 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Création d’outils pour encoder, décoder et analyser les fréquences de lettres.
 - Déchiffrage avec un algorithme Monte-Carlo par chaînes de Markov.
 
-### [✨ Détection de logiciels malveillants (Python)](https://github.com/VictoorV/Detection_malwares)
-- Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
-- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
-- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
+### [✨ Étude de la criminalité aux États-Unis (R)](https://github.com/VictoorV/Criminalite_US)
+- Analyse de la criminalité en fonction de variables socio-économiques.
+- Sélection et comparaison de modèles de régression multiple (R², AIC). Tests d’hypothèses sur les coefficients et sur la significativité des modèles.
+
+### [✨ Analyse biostatistique des données d'expression génique avec tests multiples (R)](https://github.com/VictoorV/Analyse_biostatistique)
+- Recherche et théorie sur les tests multiples
+- Tests multiples avec corrections sur des données réelles d'expression génique.
+
+### [✨ Optimisation et planification industrielle (AMPL)](https://github.com/VictoorV/Planification_industrielle)
+- Modélisation d'un problème réel en problème mathématique.
+- Analyse post-optimisation.
+
+### [✨ Application de réservation de salles (Java, SQL)](https://github.com/VictoorV/Reservation_salles_java)
+- Gestion automatique afin d'éviter les conflits de réservation.
+- Connexion Java - base de données SQL.
 
 ## 📊 Expérience professionnelle
 

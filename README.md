@@ -17,43 +17,39 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ### [✨ Application de réservation de salles (Java, SQL)](https://github.com/VictoorV/Reservation_salles_java)
 - Gestion automatique afin d'éviter les conflits de réservation.
-- Connexion Java - base de données SQL 
+- Connexion Java - base de données SQL.
 
-### [✨ Optimisation de Transport Logistique (AMPL)](link_to_repository)
-- Modeled and solved a logistics optimization problem for a fictitious company.
-- Utilized AMPL for complex optimization tasks.
+### [✨ Estimation par bootstrap et déchiffrage d'un message codé (R)](https://github.com/VictoorV/Bootstrap_MCMC)
+- Estimation des paramètres par maximum de vraisemblance et construction d’intervalles de confiance pour les paramètres du modèle.
+- Application de deux approches bootstrap (non paramétrique et paramétrique), calcul des intervalles de confiance/prédiction (IC, IP) bootstrap.
+- Comparaison des méthodes bootstrap selon la taille d’échantillon, basée sur la précision des IC et la représentation graphique des IP.
+- Création d’outils pour encoder, décoder et analyser les fréquences de lettres.
+- Déchiffrage avec un algorithme Monte-Carlo par chaînes de Markov.
 
-### [✨ Classification de Logiciels Malveillants (Python, R)](link_to_repository)
+### [✨ Détection de logiciels malveillants (Python)](link_to_repository)
 - Developed a classifier for malware detection using a dataset of 4465 samples and 241 features.
 - Applied various ML algorithms and compared their performance using ROC curves.
 
-## 📊 Professional Experience
+## 📊 Expérience professionnelle
 
-### Data Scientist (CDD) at Société Vauché, Since June 2024
-- Implemented AI solutions (ChatGPT and Gemini 1.5) for process improvement.
-- Automated tasks in the design office, improving efficiency with Gemini 1.5.
-- Optimized procurement processes with ChatGPT, saving time and enhancing partner selection.
-
-### Statistician Intern at Société Vauché, Feb 2024 - Jun 2024
-- Designed and optimized survey plans for waste sorting quality estimation.
-- Conducted performance tests and sampling methods for accuracy and reliability.
-- Developed Python scripts and tools for data analysis and simulation.
-
-### Data Scientist Intern at Laboratoire Paul Painlevé Lille, Mar 2023 - Jun 2023
-- Constructed a classification model to distinguish potable from non-potable water using a dataset of 46,999 individuals and 45 variables.
-- Implemented various ML algorithms (Logistic Regression, Random Forest, SVM) for health event prediction and compared their performance.
+### Ingénieur R&D chez SEGULA Technologies (mars - septembre 2024)
+- Veille technologique et état de l'art sur l'apprentissage par renforcement en gestion énergétique.
+- Modélisation et résolution de problèmes MILP afin d'optimiser la consommation des bâtiments.
+- Développement d'un système innovant de gestion de l'énergie en temps réel par IA.
 
 ## 🎓 Education
 
-### Master in Data Science, Université de Lille, Since Sep 2023
-- Courses: Logistic Regression, Random Forests, SVM, K-NN, Q-learning, Actor-Critic, Neural Networks, Pytorch, Big Data Tools, Docker.
+### Master en mathématiques appliquées, Ingénierie Statistique et Numérique, à l'université de Lille (2022-2024)
+- Statistiques et probabilités (tests d'hypothèses, modélisation statistique, régression, séries temporelles, statistiques computationnelles, statistiques spatiales, biostatistiques, analyse de données, analyse factorielle).
+- Théorie et méthodes d'apprentissage (régression logistique, KNN, SVM, arbres décisionnels, méta-algorithmes ...).
+- Calcul scientifique (optimisation, recherche opérationnelle, traitement du signal).
+- Outils du big data (Git, Docker).
 
-### Bachelor's in Mathematics, Aix-Marseille Université, 2020 - 2021
+### Licence en mathématiques pures à l'université de Lille (2021 - 2022)
+- Analyse réelle, complexe, numérique et matricielle.
+- Structures algébriques
+- Topologie
+- Probabilités
+- Équations différentielles
 
-## 📫 Contact
-
-- **Email**: youssouf.rokidine@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/youssouf-roki-dine](https://www.linkedin.com/in/youssouf-roki-dine)
-- **GitHub**: [https://github.com/RokidineYoussouf](https://github.com/RokidineYoussouf)
-
-➡️ Enthusiastic about joining a dynamic team and contributing to exciting projects. Feel free to reach out! 😄
+😄

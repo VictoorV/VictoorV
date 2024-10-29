@@ -25,10 +25,10 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
 - Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
 
-### [✨ Prédire si un individu est positif au COVID 19](https://github.com/VictoorV/Prediction_COVID19)
-- Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
-- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
-- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
+### [✨ Prédire si un individu est positif au COVID 19 (Python)](https://github.com/VictoorV/Prediction_COVID19)
+- Analyse de données, pre-processing des données, feature engineering.
+- Optimisation d'un modèle XGBoost pour avoir les meilleurs résultats (métrique score f1).
+- Ajustement du seuil de décision et conclusion.
 
 ### [✨ Estimation par bootstrap et déchiffrage d'un message codé (R)](https://github.com/VictoorV/Bootstrap_MCMC)
 - Estimation des paramètres par maximum de vraisemblance et construction d’intervalles de confiance pour les paramètres du modèle.

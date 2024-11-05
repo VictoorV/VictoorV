@@ -24,17 +24,17 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 - Étude théorique et recherche sur le traitement et la génération d’images.
 - Développement et utilisation d’un GAN pour générer des images de saules.
 
-### [✨ Détection de logiciels malveillants (Python)](https://github.com/VictoorV/Detection_malwares)
-- Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
-- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
-- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
-
 ### [✨ Prédire si un individu est positif au COVID 19 (Python)](https://github.com/VictoorV/Prediction_COVID19)
 - Analyse de données (données tests sanguins, tests viraux ...), pre-processing des données, feature engineering.
 - Oversampling avec SMOTENC + méthodologie 
 - Création de pipelines pour éviter TOUT data leakage.
 - Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métrique score f1/recall).
 - Ajustement du seuil de décision et conclusion.
+
+### [✨ Détection de logiciels malveillants (Python)](https://github.com/VictoorV/Detection_malwares)
+- Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.
+- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.
+- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes.
 
 ### [✨ Estimation par bootstrap et déchiffrage d'un message codé (R)](https://github.com/VictoorV/Bootstrap_MCMC)
 - Estimation des paramètres par maximum de vraisemblance et construction d’intervalles de confiance pour les paramètres du modèle.

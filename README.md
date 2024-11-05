@@ -15,6 +15,9 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ## 🚀 Projets
 
+### [✨ Prédiction des maladies cardiaques pour une meilleure prévention (Python)](https://github.com/VictoorV/Maladie_cardique)
+- A
+
 ### [✨ Génération d'images de Saules (Python)](https://github.com/VictoorV/Saules_GAN)
 - Création et gestion d’une base de données d’images de saules.
 - Étude théorique et recherche sur le traitement et la génération d’images.
@@ -27,7 +30,9 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ### [✨ Prédire si un individu est positif au COVID 19 (Python)](https://github.com/VictoorV/Prediction_COVID19)
 - Analyse de données, pre-processing des données, feature engineering.
-- Optimisation d'un modèle XGBoost pour avoir les meilleurs résultats (métrique score f1).
+- Oversampling avec SMOTENC + méthodologie 
+- Création de pipelines pour éviter TOUT data leakage.
+- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métrique score f1/recall).
 - Ajustement du seuil de décision et conclusion.
 
 ### [✨ Estimation par bootstrap et déchiffrage d'un message codé (R)](https://github.com/VictoorV/Bootstrap_MCMC)

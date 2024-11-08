@@ -16,10 +16,13 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 ## 🚀 Projets
 
 ### [✨ Risque financier pour l'approbation de prêt (Python)](https://github.com/VictoorV/Risques_financiers)
-
+- EDA (données financières), tests et fiting de lois statistiques.
+- Scoring, régression pour la prédiction de score.
+- Décision pour l'attribution ou non d'un prêt, classification.
+- Combinaison pour tester si le modèle de scoring permet d'améliorer la prise de décision.
 
 ### [✨ Prédiction des maladies cardiaques pour une meilleure prévention (Python)](https://github.com/VictoorV/Maladie_cardiaque)
-- EDA (données de diabète, angine ...) + pre-processing
+- EDA (données de diabète, angine ...) + pre-processing.
 - Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métrique score f1/recall).
 
 ### [✨ Génération d'images de Saules (Python)](https://github.com/VictoorV/Saules_GAN)

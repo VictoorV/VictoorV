@@ -15,7 +15,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 ## 🚀 Projets
 
-| Projet | Technologie | Description |
+| Projet | Technologies | Description |
 |--------|-------------|-------------|
 | [✨ Détection de cancer du sein](https://github.com/VictoorV/Breast_cancer) | Python, PyTorch, ResNet50, Scikit-learn | - Visualisation et analyse d'immages de mammographie.<br>- Transfer learning sur le modèle ResNet50 pour effectuer une tâche de classification.<br>- Optimisation des hyperparamètres.|
 | [✨ Risque financier pour l'approbation de prêt](https://github.com/VictoorV/Risques_financiers) | Python, Scikit-learn, Pandas, ML | - EDA (données financières), tests et fiting de lois statistiques.<br>- Scoring, régression pour la prédiction de score (métrique score f1/precision).<br>- Décision pour l'attribution ou non d'un prêt, classification pour l'attribution de label.<br>- Ajout du modèle de scoring au modèle de classification pour tester si les prédictions de score permettent d'améliorer la prise de décision. |

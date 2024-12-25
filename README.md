@@ -17,7 +17,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
-| [Classification chien chat avec bruit](https://github.com/VictoorV/catdog) | Python, PyTorch, CV2, Weiner filter, ConvNeXtv2 | - Traitement d'images avec flou de mouvement et bruit sel poivre.<br>- Transfer learning sur ConvNeXtv2.<br>- 92.70% d'accuracy.|
+| [Classification chien chat avec bruit](https://github.com/VictoorV/Catdog) | Python, PyTorch, CV2, Weiner filter, ConvNeXtv2 | - Traitement d'images avec flou de mouvement et bruit sel poivre.<br>- Transfer learning sur ConvNeXtv2.<br>- 92.70% d'accuracy.|
 | [Détection de port du masque](https://github.com/VictoorV/Mask_detection) | Python, PyTorch, YOLOv8, Faster R-CNN | - Détection d'objets (masque).<br>- Transfer learning sur YOLOv8.<br>- Transfer learning sur un modèle Faster R-CNN avec backbone ResNet50.<br>- Comparaison des résultats.|
 | [Détection de tumeur du cerveau](https://github.com/VictoorV/Brain_tumor) | Python, PyTorch, ResNet50, ConvNeXt, Scikit-learn, CNN | - Visualisation et analyse de scans MRI.<br>- Transfer learning pour effectuer une tâche de classification multiple.<br>- 99% d'accuracy.|
 | [Détection du cancer du sein](https://github.com/VictoorV/Breast_cancer) | Python, PyTorch, ResNet50, ConvNeXt, EfficientNet, Scikit-learn, CNN | - Visualisation et analyse d'immages de mammographie.<br>- Transfer learning sur des architectures CNN pour effectuer une tâche de classification.<br>- 71% d'accuracy.|

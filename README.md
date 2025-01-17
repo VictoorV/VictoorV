@@ -45,7 +45,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 | [Étude de la criminalité aux États-Unis](https://github.com/VictoorV/Criminalite_US) | R | - Analyse de la criminalité en fonction de variables socio-économiques.<br>- Sélection et comparaison de modèles de régression multiple (R², AIC). Tests d’hypothèses sur les coefficients et sur la significativité des modèles. |
 | [Analyse biostatistique des données d'expression génique avec tests multiples](https://github.com/VictoorV/Analyse_biostatistique) | R | - Recherche et théorie sur les tests multiples.<br>- Tests multiples avec corrections sur des données réelles d'expression génique. |
 
-### Orienté objet
+### Programmation orienté objet
 
 | Projet | Technologies | Description |
 |--------|-------------|-------------|

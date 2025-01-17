@@ -45,18 +45,21 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 | [Étude de la criminalité aux États-Unis](https://github.com/VictoorV/Criminalite_US) | R | - Analyse de la criminalité en fonction de variables socio-économiques.<br>- Sélection et comparaison de modèles de régression multiple (R², AIC). Tests d’hypothèses sur les coefficients et sur la significativité des modèles. |
 | [Analyse biostatistique des données d'expression génique avec tests multiples](https://github.com/VictoorV/Analyse_biostatistique) | R | - Recherche et théorie sur les tests multiples.<br>- Tests multiples avec corrections sur des données réelles d'expression génique. |
 
-### Programmation orienté objet
+### Programmation orientée objet
 
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
 | [Application de réservation de salles](https://github.com/VictoorV/Reservation_salles_java) | Java, MySQL | - Gestion automatique afin d'éviter les conflits de réservation.<br>- Connexion Java - base de données SQL. |
+| [Équation de la chaleur en 2D](https://github.com/VictoorV/Projet2_Cpp) | C++ | - Modélisation numérique par différences finies.<br>- Résolution du problème de diffusion thermique en 2D dans un four. |
+| [Résolution de systèmes linéaires en C++](https://github.com/VictoorV/Projet1_Cpp) | C++ | - Résolution de systèmes par factorisation LU.<br>- Méthode de la puissance / puissance inverse. |
+
 
 ### Programmation linéaire
 
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
-| [Optimisation et planification industrielle, supply chain 2](https://github.com/VictoorV/Planification_industrielle_supply_chain2) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
-| [Optimisation et planification industrielle, supply chain 1](https://github.com/VictoorV/Planification_industrielle_supply_chain1) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
+| [Planification industrielle et optimisation de la supply chain 2](https://github.com/VictoorV/Planification_industrielle_supply_chain2) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
+| [Planification industrielle et optimisation de la supply chain 1](https://github.com/VictoorV/Planification_industrielle_supply_chain1) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
 
 ## 📊 Expérience professionnelle
 

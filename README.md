@@ -20,7 +20,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
-| [Segmentation d'IRM du cerveau](https://github.com/VictoorV/mri_segmentation) | Python, PyTorch, U-Net, CV2 | - Segmentation sémantique pour localiser les tumeurs.<br>- 80%+ Dice/IoU sur les patients de test.|
+| [Segmentation d'IRM du cerveau](https://github.com/VictoorV/mri_segmentation) | Python, PyTorch, U-Net, CV2 | - Segmentation sémantique pour localiser les tumeurs.<br>- 80%+ de score Dice/IoU sur les patients de test.|
 | [Segmentation d'images de football](https://github.com/VictoorV/Football_segmentation) | Python, PyTorch, U-Net, CV2 | - Segmentation sémantique pour détecter les joueurs/arbitres.<br>- Création d'un réseau U-Net et entrainement from scratch.<br>- 85% d'IoU.|
 | [Classification chien chat avec bruit](https://github.com/VictoorV/Catdog) | Python, PyTorch, CV2, filtre de Wiener, ConvNeXtV2 | - Traitement d'images avec flou de mouvement et bruit sel poivre.<br>- Transfer learning sur ConvNeXtv2.<br>- 92.70% d'accuracy.|
 | [Détection de port du masque](https://github.com/VictoorV/Mask_detection) | Python, PyTorch, YOLOv8, Faster R-CNN | - Détection d'objets (masque).<br>- Transfer learning sur YOLOv8.<br>- Transfer learning sur un modèle Faster R-CNN avec backbone ResNet50.<br>- Comparaison des résultats.|

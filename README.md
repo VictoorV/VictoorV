@@ -15,6 +15,7 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🚀 Projets
+La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-level APIs.
 
 ### Vision par ordinateur
 
@@ -22,11 +23,16 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 |--------|-------------|-------------|
 | [Segmentation d'IRM du cerveau](https://github.com/VictoorV/mri_segmentation) | Python, PyTorch, U-Net, CV2 | - Segmentation sémantique pour localiser les tumeurs.<br>- 80%+ de score Dice/IoU sur les patients de test.|
 | [Segmentation d'images de football](https://github.com/VictoorV/Football_segmentation) | Python, PyTorch, U-Net, CV2 | - Segmentation sémantique pour détecter les joueurs/arbitres.<br>- Création d'un réseau U-Net et entrainement from scratch.<br>- 85% d'IoU.|
-| [Classification chien chat avec bruit](https://github.com/VictoorV/Catdog) | Python, PyTorch, CV2, filtre de Wiener, ConvNeXtV2 | - Traitement d'images avec flou de mouvement et bruit sel poivre.<br>- Transfer learning sur ConvNeXtv2.<br>- 92.70% d'accuracy.|
+| [Classification chien chat avec bruit](https://github.com/VictoorV/Catdog) | Python, PyTorch, CV2, filtre de Wiener, ConvNeXtV2 | - Traitement d'images avec flou de mouvement et bruit sel poivre.<br>- Transfer learning sur ConvNeXtv2.<br>- 92,70% d'accuracy.|
 | [Détection de port du masque](https://github.com/VictoorV/Mask_detection) | Python, PyTorch, YOLOv8, Faster R-CNN | - Détection d'objets (masque).<br>- Transfer learning sur YOLOv8.<br>- Transfer learning sur un modèle Faster R-CNN avec backbone ResNet50.<br>- Comparaison des résultats.|
 | [Détection de tumeurs du cerveau](https://github.com/VictoorV/Brain_tumor) | Python, PyTorch, ResNet50, ConvNeXt, Scikit-learn, CNN | - Visualisation et analyse de scans MRI.<br>- Transfer learning pour effectuer une tâche de classification multiple.<br>- 99% d'accuracy.|
 | [Détection du cancer du sein](https://github.com/VictoorV/Breast_cancer) | Python, PyTorch, ResNet50, ConvNeXt, EfficientNet, Scikit-learn, CNN | - Visualisation et analyse d'immages de mammographie.<br>- Transfer learning sur des architectures CNN pour effectuer une tâche de classification.<br>- 71% d'accuracy.|
 | [Génération d'images de saules](https://github.com/VictoorV/Saules_GAN) | Python, PyTorch, Pandas, ML | - Création et gestion d’une base de données d’images de saules.<br>- Étude théorique et recherche sur le traitement et la génération d’images.<br>- Développement et utilisation d’un GAN pour générer des images de saules. |
+
+### NLP
+| Projet | Technologies | Description |
+|--------|-------------|-------------|
+| [Analyse de sentiments](https://github.com/VictoorV/movie_classif_lstm) | Python, LSTM | - Traitement des données par batch.<br>- Entrainement d'un modèle LSTM bidirectionnel.<br>- Accuracy de 87,33% sur IMDB. |
 
 ### Classification / régression sur des données tabulaires
 
@@ -36,11 +42,6 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 | [Prédiction des maladies cardiaques pour une meilleure prévention](https://github.com/VictoorV/Maladie_cardiaque) | Python, Scikit-learn, Pandas, ML | - EDA (données de diabète, angine ...) + pre-processing.<br>- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métriques : score f1/recall). |
 | [Prédire si un individu est positif au COVID-19](https://github.com/VictoorV/Prediction_COVID19) | Python, Scikit-learn, Pandas, ML | - Analyse de données (données tests sanguins, tests viraux ...), pre-processing des données, feature engineering.<br>- Oversampling avec SMOTENC + méthodologie.<br>- Création de pipelines pour éviter TOUT data leakage.<br>- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métriques : score f1/recall).<br>- Ajustement du seuil de décision et conclusion. |
 | [Détection de logiciels malveillants](https://github.com/VictoorV/Detection_malwares) | Python, Scikit-learn, Pandas, ML | - Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.<br>- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.<br>- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes. |
-
-### NLP
-| Projet | Technologies | Description |
-|--------|-------------|-------------|
-| [Analyse de sentiments](https://github.com/VictoorV/Detection_malwares) | Python, Scikit-learn, Pandas, ML | - Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.<br>- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.<br>- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes. |
 
 ### Études statistiques 
 

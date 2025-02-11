@@ -37,6 +37,11 @@ Statisticien/Data scientist passionné avec une solide formation en mathématiqu
 | [Prédire si un individu est positif au COVID-19](https://github.com/VictoorV/Prediction_COVID19) | Python, Scikit-learn, Pandas, ML | - Analyse de données (données tests sanguins, tests viraux ...), pre-processing des données, feature engineering.<br>- Oversampling avec SMOTENC + méthodologie.<br>- Création de pipelines pour éviter TOUT data leakage.<br>- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métriques : score f1/recall).<br>- Ajustement du seuil de décision et conclusion. |
 | [Détection de logiciels malveillants](https://github.com/VictoorV/Detection_malwares) | Python, Scikit-learn, Pandas, ML | - Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.<br>- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.<br>- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes. |
 
+### NLP
+| Projet | Technologies | Description |
+|--------|-------------|-------------|
+| [Analyse de sentiments](https://github.com/VictoorV/Detection_malwares) | Python, Scikit-learn, Pandas, ML | - Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.<br>- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.<br>- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes. |
+
 ### Études statistiques 
 
 | Projet | Technologies | Description |

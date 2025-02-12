@@ -67,26 +67,4 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 | [Planification industrielle et optimisation de la supply chain 2](https://github.com/VictoorV/Planification_industrielle_supply_chain2) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
 | [Planification industrielle et optimisation de la supply chain 1](https://github.com/VictoorV/Planification_industrielle_supply_chain1) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
 
-## 📊 Expérience professionnelle
-
-### Ingénieur R&D chez SEGULA Technologies (mars - septembre 2024)
-- Veille technologique et état de l'art sur l'apprentissage par renforcement en gestion énergétique.
-- Modélisation et résolution de problèmes MILP afin d'optimiser la consommation des bâtiments.
-- Développement d'un système innovant de gestion de l'énergie en temps réel par IA.
-
-## 🎓 Formation
-
-### Master en mathématiques appliquées, Ingénierie Statistique et Numérique, à l'université de Lille (2022-2024)
-- Statistiques et probabilités (tests d'hypothèses, modélisation statistique, régression, séries temporelles, statistiques computationnelles, statistiques spatiales, biostatistiques, analyse de données, analyse factorielle).
-- Théorie et méthodes d'apprentissage (apprentissage supervisé, non supervisé, par renforcement, traitement naturel du langage, génération d'images).
-- Calcul scientifique (optimisation, recherche opérationnelle, traitement du signal).
-- Outils du big data (Git, Docker).
-
-### Licence en mathématiques pures à l'université de Lille (2021 - 2022)
-- Analyse réelle, complexe, numérique et matricielle.
-- Structures algébriques
-- Topologie
-- Probabilités
-- Équations différentielles
-
 😄

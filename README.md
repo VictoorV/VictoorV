@@ -32,7 +32,7 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 ### NLP
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
-| [Analyse de sentiments](https://github.com/VictoorV/movie_classif_lstm) | Python, PyTorch, Torchtext, LSTM | - Entrainement d'un modèle LSTM bidirectionnel.<br>- Traitement des données par batch, 87,3% d'accuracy sur IMDB. |
+| [Analyse de sentiments](https://github.com/VictoorV/movie_classif_lstm) | Python, PyTorch, Torchtext, LSTM | - Entrainement d'un modèle LSTM bidirectionnel à plusieurs couches.<br>- Traitement des données par batch, 87,3% d'accuracy sur IMDB. |
 
 ### Classification / régression sur des données tabulaires
 
@@ -56,7 +56,7 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
 | [Application de réservation de salles](https://github.com/VictoorV/Reservation_salles_java) | Java, MySQL | - Gestion automatique afin d'éviter les conflits de réservation.<br>- Connexion Java - base de données SQL. |
-| [Équation de la chaleur en 2D](https://github.com/VictoorV/Projet2_Cpp) | C++ | - Modélisation numérique par différences finies.<br>- Résolution du problème de diffusion thermique en 2D dans un four. |
+| [Équation de la chaleur en 2D](https://github.com/VictoorV/Projet2_Cpp) | C++ | - Modélisation numérique par différences finies.<br>- Résolution du problème de diffusion thermique en 2D dans un four et optimisation des calculs. |
 | [Résolution de systèmes linéaires en C++](https://github.com/VictoorV/Projet1_Cpp) | C++ | - Résolution de systèmes par factorisation LU.<br>- Méthode de la puissance / puissance inverse. |
 
 

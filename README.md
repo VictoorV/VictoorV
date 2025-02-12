@@ -39,8 +39,8 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
 | [Risque financier pour l'approbation de prêt](https://github.com/VictoorV/Risques_financiers) | Python, Scikit-learn, Pandas, ML | - EDA (données financières), tests et fiting de lois statistiques.<br>- Scoring, régression pour la prédiction de score, classification pour l'attribution de label (métriques : score f1/precision). |
-| [Prédiction des maladies cardiaques pour une meilleure prévention](https://github.com/VictoorV/Maladie_cardiaque) | Python, Scikit-learn, Pandas, ML | - EDA (données de diabète, angine ...) + pre-processing.<br>- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métriques : score f1/recall). |
-| [Prédire si un individu est positif au COVID-19](https://github.com/VictoorV/Prediction_COVID19) | Python, Scikit-learn, Pandas, ML | - Analyse de données (données tests sanguins, tests viraux ...), pre-processing des données, feature engineering.<br>- Oversampling avec SMOTENC + méthodologie.<br>- Création de pipelines pour éviter TOUT data leakage.<br>- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC ...) pour avoir les meilleurs résultats (métriques : score f1/recall).<br>- Ajustement du seuil de décision et conclusion. |
+| [Prédiction des maladies cardiaques pour une meilleure prévention](https://github.com/VictoorV/Maladie_cardiaque) | Python, Scikit-learn, Pandas, ML | - EDA (données de diabète) + pre-processing.<br>- Optimisation de modèles de machine learning (MLP, RDF, XGB, SVC) pour avoir les meilleurs résultats (métriques : score f1/recall). |
+| [Prédire si un individu est positif au COVID-19](https://github.com/VictoorV/Prediction_COVID19) | Python, Scikit-learn, Pandas, ML | - EDA (données tests sanguins), feature engineering.<br>- Création de pipelines et optimisation de modèles de machine learning (MLP, RDF, XGB, SVC). |
 | [Détection de logiciels malveillants](https://github.com/VictoorV/Detection_malwares) | Python, Scikit-learn, Pandas, ML | - Nettoyage, visualisation, analyse de données. Étude statistique préliminaire.<br>- Sélection d’algorithmes de classification adaptés (régression logistique, KNN, arbres de décision, SVM, méta-algorithmes). Implémentation avec Scikit-learn.<br>- Évaluation des modèles avec des métriques de performance (AUC, précision, rappel, validation croisée). Identification des variables influentes. |
 
 ### Études statistiques 
@@ -64,7 +64,7 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
-| [Planification industrielle et optimisation de la supply chain 2](https://github.com/VictoorV/Planification_industrielle_supply_chain2) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
-| [Planification industrielle et optimisation de la supply chain 1](https://github.com/VictoorV/Planification_industrielle_supply_chain1) | AMPL | - Modélisation d'un problème réel en problème mathématique.<br>- Analyse post-optimisation. |
+| [Planification industrielle et optimisation de la supply chain 2](https://github.com/VictoorV/Planification_industrielle_supply_chain2) | AMPL | - Modélisation mathématique d'un problème de gestion et résolution.<br>- Analyse post-optimisation. |
+| [Planification industrielle et optimisation de la supply chain 1](https://github.com/VictoorV/Planification_industrielle_supply_chain1) | AMPL | - Modélisation mathématique d'un problème de gestion et résolution.<br>- Analyse post-optimisation. |
 
 😄

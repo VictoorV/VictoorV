@@ -27,7 +27,7 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 | [Détection de port du masque](https://github.com/VictoorV/Mask_detection) | Python, PyTorch, YOLOv8, Faster R-CNN | - Transfer learning sur YOLOv8 et Faster R-CNN.<br>- Comparaison des résultats des modèles.|
 | [Détection de tumeurs du cerveau](https://github.com/VictoorV/Brain_tumor) | Python, PyTorch, ResNet50, ConvNeXt, Scikit-learn, CNN | - Visualisation et analyse de scans IRM.<br>- Classification multiple.|
 | [Détection du cancer du sein](https://github.com/VictoorV/Breast_cancer) | Python, PyTorch, ResNet50, ConvNeXt, EfficientNet, Scikit-learn, CNN | - Visualisation et analyse d'images de mammographie.<br>- Transfer learning sur des CNN, 71% d'accuracy.|
-| [Génération d'images de saules](https://github.com/VictoorV/Saules_GAN) | Python, PyTorch, Pandas, ML | - Création et gestion d’une BDD d’images de saules.<br>- Recherche sur le traitement/la génération d’images.<br>- Développement et utilisation d’un GAN pour générer des images de saules. |
+| [Génération d'images de saules](https://github.com/VictoorV/Saules_GAN) | Python, PyTorch, Pandas, ML | - Création et gestion d’une BDD d’images de saules.<br>- Développement et utilisation d’un GAN pour générer des images de saules. |
 
 ### NLP
 | Projet | Technologies | Description |

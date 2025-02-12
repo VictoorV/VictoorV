@@ -32,7 +32,7 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 ### NLP
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
-| [Analyse de sentiments](https://github.com/VictoorV/movie_classif_lstm) | Python, LSTM | - Entrainement d'un modèle LSTM bidirectionnel.<br>- Traitement des données par batch, 87,3% d'accuracy sur IMDB. |
+| [Analyse de sentiments](https://github.com/VictoorV/movie_classif_lstm) | Python, PyTorch, LSTM | - Entrainement d'un modèle LSTM bidirectionnel.<br>- Traitement des données par batch, 87,3% d'accuracy sur IMDB. |
 
 ### Classification / régression sur des données tabulaires
 

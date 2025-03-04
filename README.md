@@ -31,6 +31,7 @@ La plupart des projets d'IA sont réalisés en utilisant PyTorch et des low-leve
 ### NLP
 | Projet | Technologies | Description |
 |--------|-------------|-------------|
+| [Traducteur français-anglais](https://github.com/VictoorV/Traducteur_francais_anglais) | Python, PyTorch, Transformer | - Création d'un traducteur français vers anglais à partir de zéro. |
 | [Analyse de sentiments](https://github.com/VictoorV/movie_classif_lstm) | Python, PyTorch, Torchtext, LSTM | - Entrainement d'un modèle LSTM bidirectionnel à plusieurs couches.<br>- Traitement des données par batch, 87,3% d'accuracy sur IMDB. |
 
 ### Classification / régression sur des données tabulaires
